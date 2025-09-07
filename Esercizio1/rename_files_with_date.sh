@@ -7,7 +7,6 @@
 #   - Collect all files (excluding directories) into an array
 #   - Check if the array is empty and display files if not
 #   - Rename all files by prefixing them with today's date (YYYY-MM-DD)
-# Author: OpenAI ChatGPT
 # ----------------------------------------------
 
 # Step 1: Create dummy files
