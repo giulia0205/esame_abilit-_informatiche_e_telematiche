@@ -123,6 +123,7 @@ Esercizio 6
 
 
 Esercizio 8
+
     Descrizione
         Questo script (list_files.sh) esegue le seguenti operazioni:
             1. Accetta come argomento una directory.
@@ -155,6 +156,7 @@ Esercizio 8
 
 
 Esercizio 9
+
     Descrizione
         Lo script Python haloss.py analizza i dati prodotti da una simulazione idrodinamica cosmologica a redshift z = 6.  
         Il file di input (`AGN.txt`) descrive le proprietà di aloni, contenenti materia oscura (DM), gas, stelle, e buchi neri (BH).
