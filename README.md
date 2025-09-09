@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+esame_abilità_informatiche_e_telematiche
+>>>>>>> 7707738 (esame)
 Questo repository contiene le soluzioni agli esercizi dell’esame di scripting in Bash e in Python.
 
 Esercizio 1
@@ -123,7 +127,10 @@ Esercizio 6
 
 
 Esercizio 8
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7707738 (esame)
     Descrizione
         Questo script (list_files.sh) esegue le seguenti operazioni:
             1. Accetta come argomento una directory.
@@ -156,7 +163,10 @@ Esercizio 8
 
 
 Esercizio 9
+<<<<<<< HEAD
 
+=======
+>>>>>>> 7707738 (esame)
     Descrizione
         Lo script Python haloss.py analizza i dati prodotti da una simulazione idrodinamica cosmologica a redshift z = 6.  
         Il file di input (`AGN.txt`) descrive le proprietà di aloni, contenenti materia oscura (DM), gas, stelle, e buchi neri (BH).
